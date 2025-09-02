@@ -1,0 +1,10 @@
+# 🔄 Servicios esenciales   
+@@||office.com^  
+@@||windowsupdate.com^  
+@@||apple.com^  
+@@||icloud.com^  
+@@||google.com^  
+@@||gstatic.com^  
+@@||googleapis.com^ 
+@@||cdnjs.cloudflare.com^
+@@||chrome.cloudflare-dns.com^
