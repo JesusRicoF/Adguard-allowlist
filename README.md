@@ -1,2 +1,2 @@
 # Adguard-allowlist
-My very restrictive while list in Adguard
+My very restrictive white list in Adguard
